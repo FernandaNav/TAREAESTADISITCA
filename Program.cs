@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         int option = 0;
-        int[] numbers = null; 
+        int[] numbers = null;
 
         do
         {
